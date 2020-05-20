@@ -2,5 +2,7 @@ import React from 'react';
 import App from './app.js';
 
 export default function IncrementButton(props) {
-    return <button onClick={props.incButton}>Increment</button>;
+    //console.log(props)
+    return <button onClick={props.onClick}>Increment</button>;
 }
+
