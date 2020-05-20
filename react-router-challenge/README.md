@@ -1,4 +1,4 @@
-<https://github.com/Thinkful-Ed/react-router-challenge>  
+<https://github.com/Thinkful-Ed/react-router-challenge/tree/master/src/components>  
 Write a route which will display the AboutMenu component when you visit /about/foo, /about/bar, or /about/foo/bar.
 
 
